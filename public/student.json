@@ -1,0 +1,72 @@
+[
+    {
+    
+        "firstName":"David",
+        "middleName":"parvez",
+        "lastName":"islam",
+        "class":1,
+        "division":"A",
+        "roll":1,
+        "address1":"narsingdi",
+        "address2":"dhaka",
+        "landMark":"st,floor",
+        "city":"dhaka",
+        "postCode":1600
+    },
+    {
+    
+        "firstName":"nur",
+        "middleName":"mohammad",
+        "lastName":"papon",
+        "class":1,
+        "division":"A",
+        "roll":1,
+        "address1":"narsingdi",
+        "address2":"dhaka",
+        "landMark":"st,floor",
+        "city":"dhaka",
+        "postCode":1600
+    },
+    {
+        
+        "firstName":"md",
+        "middleName":"kamruzzaman",
+        "lastName":"kamrul",
+        "class":1,
+        "division":"A",
+        "roll":1,
+        "address1":"kishorgong",
+        "address2":"dhaka",
+        "landMark":"st,floor",
+        "city":"dhaka",
+        "postCode":1600
+    },
+    {
+        
+        "firstName":"masun",
+        "middleName":"sarker",
+        "lastName":"khan",
+        "class":1,
+        "division":"A",
+        "roll":1,
+        "address1":"narsingdi",
+        "address2":"dhaka",
+        "landMark":"st,floor",
+        "city":"dhaka",
+        "postCode":1600
+    },
+    {
+        
+        "firstName":"Abdur",
+        "middleName":"Rahaman",
+        "lastName":"Nobab",
+        "class":1,
+        "division":"A",
+        "roll":1,
+        "address1":"narsingdi",
+        "address2":"bilashdi",
+        "landMark":"st,floor",
+        "city":"dhaka",
+        "postCode":1600
+    }
+]
